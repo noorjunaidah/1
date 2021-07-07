@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(https://pavbca.com/walldb/original/b/c/b/76581.jpg)no-repeat;
+ 	background-size: cover;
+ 	height: calc(100vh - 80px);
+	
+    font-family: cursive;
+}
+.navbar ul{
+    list-style: none;
+    background: #0E040C;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbar li{
+	display:  inline-block;
+}
+.navbar a{
+	 text-decoration: none;
+	 color: #ffffff;
+	 width:100px;
+	 display:block;
+	 padding: 25px 20px;
+	 font-size: 15px;
+	 text-transform: uppercase;
+	 font-weight: bold;
+	 text-align: center;
+ }
+ .navbar a:hover{
+ 	background: pink;
+ }	
+
